@@ -12,7 +12,7 @@ import dao.Idao;
 
 public class MetierImpl implements IMetier {
     @Autowired
-    @Qualifier("vws")
+    @Qualifier("dao")
     private Idao dao; //Couplage Faible
 
     @Override
