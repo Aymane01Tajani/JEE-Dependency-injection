@@ -14,7 +14,7 @@
 <img src="Captures/Capture-6.png">
 <h1>Par une instanciation dynamique</h1>
 <img src="Captures/Capture-7.png">
-<h1>Le fichier.txt</h1>
+<h1>Le fichier.txt(Choix de la version web service a partir du fichier txt)</h1>
 <img src="Captures/Capture-8.png">
 <h1>Par une instanciation dynamique(entrer a partir du clavier)</h1>
 <img src="Captures/Capture-9.png">
